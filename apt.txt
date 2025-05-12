@@ -1,0 +1,3 @@
+ffmpeg
+texlive-latex-base
+libcairo2-dev
